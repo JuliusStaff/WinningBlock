@@ -9,7 +9,7 @@ This Privacy Policy describes how personal data of users of the **Winning Block*
 ## 1. Data Controller
 The Data Controller is:
 - **Winning Block Development Team**
-- Official Repository & Support: [https://github.com/JuliusStaff/BlockWinner](https://github.com/JuliusStaff/WinningBlock)
+- Official Repository & Support: [https://github.com/JuliusStaff/WinningBlock](https://github.com/JuliusStaff/WinningBlock)
 - Privacy Contact: via the official GitHub repository communication channels.
 
 ---
